@@ -1,3 +1,21 @@
+/*
+
+//LDR (verde)
+int ldrPinEsq = 0; 
+int ldrPinDir = 0; 
+
+//valor do verde
+int verdeVal = 500; 
+
+
+int ldrEsq = 0; //Valor lido do LDR
+int ldrDir = 0; //Valor lido do LDR
+
+  //Verde
+  pinMode(ldrPinEsq,OUTPUT); 
+  pinMode(ldrPinDir,OUTPUT); 
+
+
 
 void Verde() {
  ///ler o valor do LDR
@@ -30,3 +48,4 @@ void Verde() {
  
 
 }
+*/
